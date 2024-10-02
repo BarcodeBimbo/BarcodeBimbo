@@ -20,7 +20,6 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently developing a new project</b>: SanctionTV & TLO.SH </li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://tlo.sh">TLO.SH</a>,  <a href="https://sanction.tv">SanctionTV</a></li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/urfingpoor/urfingpoor/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
