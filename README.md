@@ -13,9 +13,9 @@
         <br>
         <p>
             <strong>
-                Computer Science Enthusiast, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                Computer Science Enthusiast, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br>
                 I specialize in cyber security and I have experience working with several languages. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
+                I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
@@ -44,6 +44,4 @@
         <p>Loading</p>
     </div>
 </div>
-
 ------
-Last edited on: 31/01/2022
