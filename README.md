@@ -21,14 +21,14 @@
         </p>
         <ul>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://tlo.sh">TLO.SH</a>,  <a href="https://sanction.tv">SanctionTV</a></li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/UrFingPoor/urfingpoor/issues">Here</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/BarcodeBimbo/barcodebimbo/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
         </ul>
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=urfingpoor&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=BarcodeBimbo&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
     </div>
 </div>
